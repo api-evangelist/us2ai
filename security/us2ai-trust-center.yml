@@ -1,0 +1,49 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://trust.us2.ai/
+url: https://trust.us2.ai/
+description: >-
+  Us2.ai operates a dedicated trust center at trust.us2.ai, linked site-wide
+  as "Trust Center" (the subdomain sits behind a Cloudflare browser challenge
+  for plain HTTP clients; the automated probe verified SOC 2 / ISO 27001 /
+  trust-center keywords in the served body). The fuller certification roster
+  below is published on the Deployment & Security page and in the company's
+  llms.txt.
+certifications:
+  - SOC 2 Type II
+  - ISO 27001:2022
+  - ISO 13485
+  - MDSAP
+  - HIPAA
+  - GDPR
+  - NHS DSPT
+  - NHS DTAC
+regulatory:
+  - {name: FDA 510(k), class: Class II, certificates: 'K210791 (Us2.v1, 2021) · K233676 (Us2.v2, 2024)'}
+  - {name: CE Mark (EU MDR), class: Class IIb, certificates: Cert 743947}
+  - {name: UK ICO registration, certificates: ZB661068}
+report_access:
+  soc2: SOC 2 Type II report available on request.
+  cyber_essentials_plus: Cyber Essentials Plus and ICO registration available on request (UK).
+docs:
+  - https://trust.us2.ai/
+  - https://us2.ai/operations/deployment-security/
+  - https://us2.ai/resources/regulatory-status/
+evidence:
+  - source: https://trust.us2.ai/
+    keywords:
+      - soc 2
+      - soc2
+      - iso 27001
+      - trust center
+  - source: https://us2.ai/operations/deployment-security/
+    keywords:
+      - soc 2 type ii
+      - iso 13485
+      - iso 27001:2022
+      - mdsap
+      - hipaa
+      - gdpr
+      - nhs dspt
+      - dtac

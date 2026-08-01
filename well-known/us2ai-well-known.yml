@@ -1,0 +1,36 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for the Us2.ai web
+  hosts (us2.ai and the app.us2.ai login host; there is no public API host —
+  api.us2.ai answers 404). Status is the HTTP code observed at fetch time.
+  us2.ai answers 410 Gone for every /.well-known/ path; app.us2.ai is behind
+  a Cloudflare challenge and answers 403 for unauthenticated probes. No real
+  well-known documents were found, so none were saved. Note the provider DOES
+  publish an llms.txt at https://us2.ai/llms.txt (captured separately in
+  llms/us2ai-llms.txt).
+hosts:
+  - host: https://us2.ai
+    documents:
+      - path: /.well-known/security.txt
+        status: 410
+      - path: /.well-known/openid-configuration
+        status: 410
+      - path: /.well-known/oauth-authorization-server
+        status: 410
+      - path: /.well-known/api-catalog
+        status: 410
+      - path: /.well-known/ai-plugin.json
+        status: 410
+  - host: https://app.us2.ai
+    documents:
+      - path: /.well-known/security.txt
+        status: 403
+      - path: /.well-known/openid-configuration
+        status: 403
+      - path: /.well-known/oauth-authorization-server
+        status: 403
+      - path: /.well-known/api-catalog
+        status: 403
+      - path: /.well-known/ai-plugin.json
+        status: 403

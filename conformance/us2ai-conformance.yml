@@ -1,0 +1,98 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  Compliance and standards claims published by Us2.ai at
+  https://us2.ai/operations/deployment-security/,
+  https://us2.ai/resources/regulatory-status/, https://us2.ai/llms.txt, and
+  https://trust.us2.ai/ (trust center, SOC 2 / ISO 27001 keywords verified by
+  probe). Us2.ai is a regulated medical-device software company; its
+  cross-cutting standards surface is healthcare-interoperability (DICOM/HL7)
+  and security/quality certifications rather than public web-API standards.
+standards:
+  - id: dicom
+    conforms: true
+    evidence: >-
+      Platform is DICOM-native: ingests standard DICOM 2D echocardiograms from
+      any ultrasound vendor and triggers analysis from DICOM routing
+      (us2.ai/operations/integrations/).
+  - id: dicom-sr
+    conforms: true
+    evidence: >-
+      Structured reports are returned to cardiology PACS as DICOM Structured
+      Report (DICOM-SR) (us2.ai/operations/integrations/).
+  - id: hl7
+    conforms: true
+    evidence: >-
+      HL7 report return is a supported integration pattern alongside DICOM-SR
+      and PDF (us2.ai/operations/integrations/).
+  - id: hipaa
+    conforms: true
+    evidence: >-
+      "GDPR & HIPAA — full compliance with global patient data privacy
+      regulations. BAA for US customers"
+      (us2.ai/operations/deployment-security/).
+  - id: gdpr
+    conforms: true
+    evidence: >-
+      DPA template for EU/UK customers; GDPR compliance stated on the
+      deployment & security page and in llms.txt.
+  - id: soc2-type-ii
+    conforms: true
+    evidence: >-
+      "SOC 2 Type II — independently audited security controls... report
+      available on request" (us2.ai/operations/deployment-security/); SOC 2
+      keywords verified on trust.us2.ai.
+  - id: iso-27001
+    conforms: true
+    evidence: >-
+      ISO 27001:2022 certified information security management system;
+      certification announced at
+      us2.ai/news/us2-ai-achieves-iso-27001-2022-certification/ and verified
+      on trust.us2.ai.
+  - id: iso-13485
+    conforms: true
+    evidence: >-
+      ISO 13485 certified medical-device quality management system
+      (us2.ai/operations/deployment-security/).
+  - id: mdsap
+    conforms: true
+    evidence: >-
+      Medical Device Single Audit Program covering US, Canada, Brazil, Japan,
+      and Australia (us2.ai/operations/deployment-security/).
+  - id: fda-510k
+    conforms: true
+    evidence: >-
+      FDA 510(k) cleared, Class II — K210791 (Us2.v1, 2021) and K233676
+      (Us2.v2, 2024) (us2.ai/resources/regulatory-status/).
+  - id: eu-mdr-ce
+    conforms: true
+    evidence: >-
+      CE marked under EU MDR, Class IIb, certificate 743947
+      (us2.ai/resources/regulatory-status/).
+  - id: nhs-dspt
+    conforms: true
+    evidence: >-
+      NHS Data Security and Protection Toolkit completed for UK NHS
+      deployments (us2.ai/operations/deployment-security/).
+  - id: nhs-dtac
+    conforms: true
+    evidence: >-
+      Digital Technology Assessment Criteria completed for UK NHS deployments;
+      Cyber Essentials Plus and ICO registration (ZB661068) available on
+      request (us2.ai/operations/deployment-security/).
+  - id: oauth2
+    conforms: false
+    evidence: >-
+      No public API documentation; no OAuth metadata discoverable —
+      /.well-known/oauth-authorization-server answers 410 on us2.ai and 403 on
+      app.us2.ai. The Cloud/API integration pathway is partner/research-gated.
+  - id: oidc
+    conforms: false
+    evidence: >-
+      No /.well-known/openid-configuration on us2.ai (410) or app.us2.ai
+      (403). SSO integration is offered to enterprise deployments but no
+      public OIDC discovery surface exists.
+notes: >-
+  Encryption claims published alongside the certifications: AES-256 at rest,
+  TLS 1.2+ in transit, optional customer-managed keys, role-based access
+  control, and audit logging (us2.ai/operations/deployment-security/).

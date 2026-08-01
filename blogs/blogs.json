@@ -1,0 +1,14 @@
+{
+  "repo": "us2ai",
+  "feeds": [
+    {
+      "source": "https://us2.ai/contact-us/",
+      "feed_url": "https://us2.ai/contact-us/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-01T15:49:00Z"
+}

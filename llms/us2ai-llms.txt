@@ -1,0 +1,185 @@
+# Us2.ai
+
+> FDA-cleared, fully automated AI echocardiography. Us2.ai analyzes a routine echo study and returns a complete structured report (measurements, disease detection, and findings) in seconds. Validated in 150+ peer-reviewed publications and used in 30+ countries. CE Class IIb, ISO 13485 / ISO 27001:2022, SOC 2 Type II, MDSAP, HIPAA, and GDPR compliant.
+
+## Platform
+
+- [Platform Overview](https://us2.ai/platform-overview/): How Us2.ai connects to ultrasound devices and PACS, processes studies in real time, and produces clinician-ready reports with zero clicks.
+
+## Disease detection (Features)
+
+- [Cardiac Amyloidosis](https://us2.ai/features/cardiac-amyloidosis/): First-and-only AI platform combining deep-learning pattern recognition with guideline-based echocardiographic measurements for automated detection. FDA-cleared and CE-marked.
+- [Heart Failure](https://us2.ai/features/heart-failure/): Automated detection of heart failure phenotypes from a single routine echo, including diastolic dysfunction and reduced ejection fraction.
+- [Aortic Stenosis](https://us2.ai/features/aortic-stenosis/): Automated severity grading and quantitative measurements aligned with international guidelines.
+- [Pulmonary Hypertension](https://us2.ai/features/pulmonary-hypertension/): Right-heart-focused automated assessment including PASP, RV size and function.
+- [Strain](https://us2.ai/features/strain/): Fully automated global longitudinal strain (GLS) and regional strain analysis.
+- [Stress Echocardiography](https://us2.ai/features/stress-echocardiography/): Automated rest and stress wall-motion assessment for ischemia evaluation.
+
+## Operations (for hospital, IT, and core-lab teams)
+
+- [Operational Impact](https://us2.ai/operations/operational-impact/): Throughput, reporting time, and quality consistency improvements seen by deployed sites. 70% faster reporting.
+- [Deployment & Security](https://us2.ai/operations/deployment-security/): Cloud and on-prem deployment options, security posture (HIPAA/GDPR/SOC 2/ISO 13485), and integration with PACS/CVIS/EMR.
+- [Core Lab Solutions](https://us2.ai/operations/core-lab-solutions/): Centralized reading workflow and standardized parameters for clinical research and trials.
+- [EHR Mining](https://us2.ai/operations/ehr-mining/): Retrospective analysis across existing echo archives to surface previously missed findings.
+- [Partnerships](https://us2.ai/operations/partnerships/): OEM device makers, AI platforms, PACS vendors, distributors, and academic research collaborations.
+- [Integrations](https://us2.ai/operations/integrations/): Integration pathways: ultrasound device, AI marketplace, cardiology PACS / DICOM-SR, and cloud / API for research and core labs.
+
+## Integration pathways
+
+- [Integration Pathways](https://us2.ai/operations/integrations/): How Us2.ai plugs into your stack: ultrasound device, AI marketplace, cardiology PACS / DICOM-SR, and cloud / API.
+- [Us2.ai + Viz.ai](https://us2.ai/operations/integrations/viz-ai/): AI marketplace deployment with EHR connectivity. Echocardiography AI algorithm in the Alnylam + Viz.ai ATTR-CM care pathway.
+- [Us2.ai + Fujifilm](https://us2.ai/operations/integrations/fujifilm/): Fujifilm Healthcare Americas equips the LISENDO 880 cardiovascular ultrasound system with Us2.ai for fully automated echo analysis at the point of care.
+- [Us2.ai + Merge](https://us2.ai/operations/integrations/merge/): AI-generated echo measurements appear natively inside Merge Cardio. Reading cardiologists get AI-analyzed studies in their existing workflow.
+
+## Resources
+
+- [ROI Calculator](https://us2.ai/resources/roi-calculator/): Interactive calculator for time savings, throughput uplift, and payback period based on your study volume and region.
+- [Evaluating AI Echocardiography](https://us2.ai/resources/evaluating-ai-echo/): Vendor-neutral buyer framework for assessing clinical-grade AI echo across seven criteria: true automation, disease detection, guideline compliance and explainability, clinical evidence, why-not-just-what reasoning, regulatory clearance by market, and multi-cohort validation.
+- [Reimbursements](https://us2.ai/resources/reimbursements/): US reimbursement pathways including outpatient CPT coding and inpatient DRG payment.
+- [Echocardiography Glossary](https://us2.ai/resources/glossary/): Plain-language definitions of 25 core echo terms (LVEF, GLS, HFpEF, TTE, TEE, etc.) with cross-links to feature pages and clinical evidence.
+- [Clinical Evidence](https://us2.ai/clinical-evidence/): Library of peer-reviewed publications, conference abstracts, and clinical research validating the platform.
+- [Authors & Collaborators](https://us2.ai/authors/): Indexed authors and clinical collaborators whose peer-reviewed work appears on Us2.ai, with affiliations, ORCID identifiers, and per-author publication lists.
+- [Case Studies](https://us2.ai/case-studies/): Named real-world programs deploying Us2.ai in community screening, primary care, core labs, and hospital workflows.
+- [News](https://us2.ai/news/): Press releases, regulatory milestones, partnership announcements, and product updates.
+
+## Company
+
+- [Our Story](https://us2.ai/our-story/): Founding team, scientific advisors, and the research origin of the platform.
+- [Testimonials](https://us2.ai/testimonials/): Physician, sonographer, and partner testimonials on fully automated AI echocardiography, grouped by clinicians and partners.
+- [Careers](https://us2.ai/careers/): Open roles across engineering, clinical, and commercial.
+- [Patent Portfolio](https://us2.ai/patents/): Eight issued US patents covering automated AI echocardiography analysis, image acquisition guidance, and disease detection, plus international counterparts.
+- [Contact Us](https://us2.ai/contact-us/): Request a demo, partnership inquiries, and media contact.
+
+## Trust & compliance
+
+- FDA 510(k) cleared (Us2.v2 plus disease-detection modules)
+- CE marked, Class IIb
+- ISO 13485 (medical device quality management)
+- ISO 27001:2022 (information security)
+- SOC 2 Type II
+- MDSAP (Medical Device Single Audit Program)
+- HIPAA and GDPR compliant
+- Regulatory clearances in 28+ markets including Canada, Australia, New Zealand, Taiwan, Thailand, Philippines, India, Israel, Indonesia, Vietnam, Singapore, Mexico, Brazil
+
+## Clinical Evidence (Peer-Reviewed Publications)
+
+- [Detection of HCM with AI Echo](https://us2.ai/clinical-evidence/detection-of-hcm-with-ai-echo/): Sep 2025
+- [Improving Heart Health in American Indian Communities with AI Ech](https://us2.ai/clinical-evidence/improving-heart-health-in-american-indian-communities-with-ai-ech/): Journal of the American Society of Echocardiography · Sep 2025
+- [External Validation of Deep Learning-based Echo Detection of Cardiac Amyloidosis using a Global Multiethnic Population](https://us2.ai/clinical-evidence/external-validation-of-deep-learning-based-echo-detection-of-cardiac-amyloidosis-using-a-global-multiethnic-population/): Sep 2025
+- [Multimodal AI for Cardiac Amyloidosis Diagnosis](https://us2.ai/clinical-evidence/multimodal-ai-for-cardiac-amyloidosis-diagnosis/): Sep 2025
+- [Aortic Stenosis Detection and Classification with an AI Echo Solution](https://us2.ai/clinical-evidence/aortic-stenosis-detection-and-classification-with-an-ai-echo-solution/): Journal of the American Society of Echocardiography · Sep 2025
+- [AI Handheld Echo for Preoperative Assessment](https://us2.ai/clinical-evidence/ai-handheld-echo-for-preoperative-assessment/): Journal of the American Society of Echocardiography · Sep 2025
+- [Transforming Echo with AI](https://us2.ai/clinical-evidence/transforming-echo-with-ai/): Netherlands Heart Journal · Sep 2025
+- [AI Echo Advances TAVI Research: The Role of COPD, Atrial Fibrillation, and Heart Failure in Symptom Improvement](https://us2.ai/clinical-evidence/ai-echo-advances-tavi-research-the-role-of-copd-atrial-fibrillation-and-heart-failure-in-symptom-improvement/): Catheterization and Cardiovascular Interventions · Sep 2025
+- [Digital tools in heart failure: addressing unmet needs](https://us2.ai/clinical-evidence/digital-tools-in-heart-failure-addressing-unmet-needs/): The Lancet Digital Health · Sep 2024
+- [AI echo diagnosis support for heart failure screening and detection from electronic health records](https://us2.ai/clinical-evidence/ai-echo-diagnosis-support-for-heart-failure-screening-and-detection-from-electronic-health-records/): Sep 2022
+- [AI POCUS – Handheld Echocardiography with Continuous-Wave Doppler: Implications for the Evaluation of Valvular Heart Disease](https://us2.ai/clinical-evidence/ai-pocus-handheld-echocardiography-with-continuous-wave-doppler-implications-for-the-evaluation-of-valvular-heart-diseas/): Journal of the American Society of Echocardiography · Sep 2022
+- [AI Echo to Track Disease Progression of Cardiac Amyloidosis](https://us2.ai/clinical-evidence/ai-echo-to-track-disease-progression-of-cardiac-amyloidosis/): European Journal of Heart Failure · Oct 2025
+- [AI Echo to Monitor TAVI patients](https://us2.ai/clinical-evidence/ai-echo-to-monitor-tavi-patients/): European Heart Journal · Oct 2024
+- [Heart failure treatment advances](https://us2.ai/clinical-evidence/heart-failure-treatment-advances/): Nature Medicine · Oct 2023
+- [AI for automated detection of heart failure in electronic health records](https://us2.ai/clinical-evidence/ai-for-automated-detection-of-heart-failure-in-electronic-health-records/): Journal of Cardiac Failure · Oct 2023
+- [AI in echocardiography for AI echo diagnosis support](https://us2.ai/clinical-evidence/ai-in-echocardiography-for-ai-echo-diagnosis-support/): Journal of the American Society of Echocardiography · Oct 2022
+- [Building Echo Competency for Novices: A Curriculum Design](https://us2.ai/clinical-evidence/building-echo-competency-for-novices-a-curriculum-design/): Circulation · Nov 2025
+- [Uncovering Hidden Cardiac Amyloidosis with AI Echo](https://us2.ai/clinical-evidence/uncovering-hidden-cardiac-amyloidosis-with-ai-echo/): Nov 2025
+- [Patient attitudes towards AI-Echo](https://us2.ai/clinical-evidence/patient-attitudes-towards-ai-echo/): BMC Health Services Research · Nov 2024
+- [AI echo for strain imaging](https://us2.ai/clinical-evidence/ai-echo-for-strain-imaging/): European Heart Journal - Digital Health · Nov 2023
+- [Fully automated AI echo analysis — validated as interchangeable with human experts](https://us2.ai/clinical-evidence/fully-automated-ai-echo-analysis-validated-as-interchangeable-with-human-experts/): Nature Communications · Nov 2022
+- [AI auto strain echo reporting software for AI echocardiogram interpretation](https://us2.ai/clinical-evidence/ai-auto-strain-echo-reporting-software-for-ai-echocardiogram-interpretation/): Nov 2022
+- [AI-Assisted Heart Failure Diagnosis: An Economic Evaluation](https://us2.ai/clinical-evidence/ai-assisted-heart-failure-diagnosis-an-economic-evaluation/): ESC Heart Failure · May 2026
+- [AI Echo for LVEF Assessment in Geriatric Patients
+](https://us2.ai/clinical-evidence/ai-echo-for-lvef-assessment-in-geriatric-patients/): May 2026
+- [PANACEA-HF: Practice nurse-led AI-PoCUS detects undetected heart failure in primary care](https://us2.ai/clinical-evidence/panacea-hf-practice-nurse-led-ai-pocus-detects-undetected-heart-failure-in-primary-care/): May 2026
+- [PANACEA-HF: Clinical algorithm optimizes detection of undiagnosed heart failure in primary care](https://us2.ai/clinical-evidence/panacea-hf-clinical-algorithm-optimizes-detection-of-undiagnosed-heart-failure-in-primary-care/): May 2026
+- [Heart2Miss AI-POCUS echo triage reduces carbon footprint](https://us2.ai/clinical-evidence/heart2miss-ai-pocus-echo-triage-reduces-carbon-footprint/): May 2026
+- [AI Echo in Community Heart Failure Screening: Methods and Implementation of the Everton BEAT Breathlessness Project](https://us2.ai/clinical-evidence/ai-echo-in-community-heart-failure-screening-methods-and-implementation-of-the-everton-beat-breathlessness-project/): European Heart Journal · May 2026
+- [AI-Assisted Peri-Operative Echocardiography Assessment](https://us2.ai/clinical-evidence/ai-assisted-peri-operative-echocardiography-assessment/): Anaesthesia · May 2026
+- [User Perceptions of AI Echo](https://us2.ai/clinical-evidence/user-perceptions-of-ai-echo/): Journal of the American Society of Echocardiography · May 2025
+- [Cardiac Ultrasound Triage for Early HF Detection using AI Echo](https://us2.ai/clinical-evidence/cardiac-ultrasound-triage-for-early-hf-detection-using-ai-echo/): May 2025
+- [Integrating AI into an Echocardiography Department](https://us2.ai/clinical-evidence/integrating-ai-into-an-echocardiography-department/): Archives of Cardiovascular Diseases · May 2025
+- [AI echo automated heart failure detection and classification from electronic health records](https://us2.ai/clinical-evidence/ai-echo-automated-heart-failure-detection-and-classification-from-electronic-health-records/): ESC Heart Failure · May 2024
+- [AI cardiac ultrasound at home by supervised nurses – the CUMIN study](https://us2.ai/clinical-evidence/ai-cardiac-ultrasound-at-home-by-supervised-nurses-the-cumin-study/): May 2023
+- [AI Echocardiography for Mitral Regurgitation Severity Grading](https://us2.ai/clinical-evidence/ai-echocardiography-for-mitral-regurgitation-severity-grading/): May 2023
+- [AI echo to predict prognosis of transthyretin amyloid cardiomyopathy](https://us2.ai/clinical-evidence/ai-echo-to-predict-prognosis-of-transthyretin-amyloid-cardiomyopathy/): European Heart Journal - Cardiovascular Imaging · May 2023
+- [Automated echo strain AI measurements](https://us2.ai/clinical-evidence/automated-echo-strain-ai-measurements/): May 2023
+- [AI Echo White Paper](https://us2.ai/clinical-evidence/ai-echo-white-paper/): May 2023
+- [Everton BEAT-Breathlessness Community Hub: How Football Can Help Save Lives](https://us2.ai/clinical-evidence/everton-beat-breathlessness-community-hub-how-football-can-help-save-lives/): JACC: Heart Failure · Mar 2025
+- [AI Echo for Post-AMI Risk Stratification: Predicting Outcomes After A Heart Attack](https://us2.ai/clinical-evidence/ai-echo-for-post-ami-risk-stratification-predicting-outcomes-after-a-heart-attack/): International Journal of Cardiology · Jun 2026
+- [AI Echo in Cardio-Oncology: Validation in a Cancer Population ](https://us2.ai/clinical-evidence/ai-echo-in-cardio-oncology-validation-in-a-cancer-population/): Jun 2026
+- [Integrating Clinical Data with AI Echocardiography for Improved Cardiac Amyloidosis Detection](https://us2.ai/clinical-evidence/integrating-clinical-data-with-ai-echocardiography-for-improved-cardiac-amyloidosis-detection/): Circulation: Cardiovascular Imaging · Jun 2026
+- [AI GLS Strain Imaging in Multi-Vendor Comparison Study](https://us2.ai/clinical-evidence/ai-gls-strain-imaging-in-multi-vendor-comparison-study/): European Heart Journal - Cardiovascular Imaging · Jun 2025
+- [Fully automated AI echo vs 3D and human readers](https://us2.ai/clinical-evidence/fully-automated-ai-echo-vs-3d-and-human-readers/): Frontiers in Cardiovascular Medicine · Jun 2024
+- [Echo AI heart failure diagnosis by novices](https://us2.ai/clinical-evidence/echo-ai-heart-failure-diagnosis-by-novices/): Scientific Reports · Jun 2024
+- [Aortic Stenosis AI Echo Assessment](https://us2.ai/clinical-evidence/aortic-stenosis-ai-echo-assessment/): Journal of the American Society of Echocardiography · Jun 2023
+- [Echo AI prediction of mortality outcomes](https://us2.ai/clinical-evidence/echo-ai-prediction-of-mortality-outcomes/): eBioMedicine · Jun 2023
+- [Heart Failure Diagnosis with AI Handheld Echo](https://us2.ai/clinical-evidence/heart-failure-diagnosis-with-ai-handheld-echo/): European Journal of Heart Failure · Jul 2025
+- [AI in Echo: State-of-the-art Automated Measurement Techniques and Clinical Applications](https://us2.ai/clinical-evidence/ai-in-echo-state-of-the-art-automated-measurement-techniques-and-clinical-applications/): JMA Journal · Jul 2025
+- [Advancing Pulmonary Hypertension Assessment with Fully Automated AI Echo](https://us2.ai/clinical-evidence/advancing-pulmonary-hypertension-assessment-with-fully-automated-ai-echo/): CHEST · Jan 2026
+- [Machine Learning Technology to Automate Thoracic Aorta Dimensions by Echocardiography](https://us2.ai/clinical-evidence/machine-learning-technology-to-automate-thoracic-aorta-dimensions-by-echocardiography/): Journal of the American Society of Echocardiography · Jan 2025
+- [AI for remote cardiovascular care in Africa](https://us2.ai/clinical-evidence/ai-for-remote-cardiovascular-care-in-africa/): Hypertension Research · Jan 2024
+- [Limitations of apical sparing pattern in cardiac amyloidosis: Insights from AI Echo](https://us2.ai/clinical-evidence/limitations-of-apical-sparing-pattern-in-cardiac-amyloidosis-insights-from-ai-echo/): European Heart Journal - Cardiovascular Imaging · Jan 2024
+- [AI-powered home ultrasound](https://us2.ai/clinical-evidence/ai-powered-home-ultrasound/): European Heart Journal - Digital Health · Jan 2024
+- [Cardiac imaging with AI – a validation of echo analysis software](https://us2.ai/clinical-evidence/cardiac-imaging-with-ai-a-validation-of-echo-analysis-software/): Jan 2022
+- [AI for echocardiography – a multicohort study of deep learning in echocardiography](https://us2.ai/clinical-evidence/ai-for-echocardiography-a-multicohort-study-of-deep-learning-in-echocardiography/): The Lancet Digital Health · Jan 2022
+- [Diagnosis of Cardiac Amyloidosis on Echocardiography Using Artificial Intelligence](https://us2.ai/clinical-evidence/diagnosis-of-cardiac-amyloidosis-on-echocardiography-using-artificial-intelligence/): Circulation: Cardiovascular Imaging · Feb 2026
+- [Fully automated AI for mitral regurgitation severity grading](https://us2.ai/clinical-evidence/fully-automated-ai-for-mitral-regurgitation-severity-grading/): JACC: Cardiovascular Imaging · Feb 2025
+- [AI echo reduces exam time by 70%](https://us2.ai/clinical-evidence/ai-echo-reduces-exam-time-by-70/): Journal of Echocardiography · Feb 2024
+- [AI POCUS plus AI echo reports provide fully automated echocardiography for novices conducting heart failure screening](https://us2.ai/clinical-evidence/ai-pocus-plus-ai-echo-reports-provide-fully-automated-echocardiography-for-novices-conducting-heart-failure-screening/): Feb 2023
+- [AI and digital tools for design and execution of cardiovascular clinical trials](https://us2.ai/clinical-evidence/ai-and-digital-tools-for-design-and-execution-of-cardiovascular-clinical-trials/): European Heart Journal · Dec 2024
+- [AI Echo Automation Improves Workflow For Sonographers](https://us2.ai/clinical-evidence/ai-echo-automation-improves-workflow-for-sonographers/): Journal of the American Heart Association · Aug 2025
+- [AI Echo in Cardiovascular Disease Management](https://us2.ai/clinical-evidence/ai-echo-in-cardiovascular-disease-management/): Nature Reviews Cardiology · Aug 2025
+- [AI Echo for Tricuspid Regurgitation Severity](https://us2.ai/clinical-evidence/ai-echo-for-tricuspid-regurgitation-severity/): Journal of the American College of Cardiology · Apr 2025
+- [Fully automated AI assessment of the LV with contrast echo](https://us2.ai/clinical-evidence/fully-automated-ai-assessment-of-the-lv-with-contrast-echo/): Journal of the American College of Cardiology · Apr 2024
+- [AI estimation of invasive PCWP performed equally to human experts and may result in more timely treatment](https://us2.ai/clinical-evidence/ai-estimation-of-invasive-pcwp-performed-equally-to-human-experts-and-may-result-in-more-timely-treatment/): Journal of the American College of Cardiology · Apr 2024
+
+## Recent News (most recent 50)
+
+- [AI POCUS – Handheld Echocardiography with Continuous-Wave Doppler: Implications for the Evaluation of Aortic Stenosis Severity](https://us2.ai/news/ai-pocus-handheld-echocardiography-with-continuous-wave-doppler-implications-for-the-evaluation-o/): JASE publication on AI Point-of-care Ultrasound with Continuous-Wave Doppler Capability to evaluate aortic stenosis
+- [AI-driven heart exams with automated echo analysis software](https://us2.ai/news/ai-driven-heart-exams-with-automated-echo-analysis-software/): Cardiovascular diseases are the leading cause of death worldwide, yet millions of people lack access to echo exams, the standard of care for diagnosing heart disease, as…
+- [Roche Healthcare Transformers](https://us2.ai/news/roche-healthcare-transformers/): Fun interview on automating the fight against heart disease with AI
+- [Forbes Asia 100 to Watch](https://us2.ai/news/forbes-asia-100-to-watch/): Forbes Asia have selected Us2.ai for the inaugural 100 to Watch list
+- [AI-powered Echo for Every Heart](https://us2.ai/news/ai-powered-echo-for-every-heart/): A Beat Ahead on World Heart Day. Us2.ai is building a future where everyone has equal access to high quality, inexpensive echo analysis. Hear from leading global cardiologists…
+- [Us2.ai granted new patent](https://us2.ai/news/us2-ai-granted-new-patent/): We’re pleased to announce our new patent and commercial deals with AZ and Janssen
+- [AI-Automated Detection of Hypertrophic Cardiomyopathy by Echocardiography](https://us2.ai/news/ai-automated-detection-of-hypertrophic-cardiomyopathy-by-echocardiography/): At ASE 2025, Dr. Alenzi delivered a Late Breaking Science Presentation titled “AI-Automated Detection of Hypertrophic Cardiomyopathy by Echocardiography: Training and External…
+- [Heart failure screening at home and in primary care](https://us2.ai/news/heart-failure-screening-at-home-and-in-primary-care/): Heart failure is the number one cause of hospitalization in people over 65 and projected to rise 50% across the next 25 years. The 5 year mortality rate for patients with HF is…
+- [AI Point-of-Care Ultrasound winner to expand healthcare beyond hospital walls](https://us2.ai/news/ai-point-of-care-ultrasound-winner-to-expand-healthcare-beyond-hospital-walls/): Cardiac imaging with AI will enable polyclinics to provide AI-assisted echocardiography in areas where ultrasound is not yet available via this double award
+- [FDA clearance](https://us2.ai/news/fda-clearance/): Us2.ai receives FDA clearance for the first fully automated solution measuring both 2D and Doppler cardiac ultrasound images
+- [AI echo diagnosis support for heart failure screening and detection from electronic health records: a population cohort study](https://us2.ai/news/ai-echo-diagnosis-support-for-heart-failure-screening-and-detection-from-electronic-health-records/): AI echo disease detection at scale – University of Dundee poster on the detection and diagnosis of patients with heart failure from electronic health records
+- [Multimodal AI for Cardiac Amyloidosis Diagnosis](https://us2.ai/news/multimodal-ai-for-cardiac-amyloidosis-diagnosis/): Presented at the Late-Breaking Clinical Science: Cardiovascular Imaging and Artificial Intelligence session at ESC Congress 2025, this study combines Us2.ai’s pattern recognition…
+- [AI ultrasound to detect heart disease](https://us2.ai/news/ai-ultrasound-to-detect-heart-disease/): Digital Technologies of Tomorrow QuickFire challenge winner awarded by Johnson and Johnson
+- [AI cardiac imaging for automated AI echo reports](https://us2.ai/news/ai-cardiac-imaging-for-automated-ai-echo-reports/): AI applications in cardiac ultrasound to make echo accessible discussed in this YouTube interview
+- [Endeavor Health cardiologists harness the power of AI to improve patient care](https://us2.ai/news/endeavor-health-cardiologists-harness-the-power-of-ai-to-improve-patient-care/): As one of the first sites in the Midwest to use AI technology clinically in the echocardiography lab, Endeavor Health experts have found tremendous potential to improve…
+- [Heart health access worldwide](https://us2.ai/news/heart-health-access-worldwide/): AI cardiac imaging platform helps Us2.ai win the Fedex Small business award
+- [AI for echocardiography using deep learning to provide AI echo diagnosis support and AI echo interpretation](https://us2.ai/news/ai-for-echocardiography-using-deep-learning-to-provide-ai-echo-diagnosis-support-and-ai-echo-interpr/): AI interpretation of echocardiograms – a formal validation of echo analysis software published in Nature Communications.
+- [Echo Strain AI – full auto strain analysis using artificial intelligence](https://us2.ai/news/echo-strain-ai-full-auto-strain-analysis-using-artificial-intelligence/): Cardiac Wire Q&A with Us2.ai president Yoran Hummel to discuss fully automated strain analysis using Us2.ai’s echocardiography decision support platform.
+- [Us2.ai joins Harrision.ai’s Medical Imaging AI Open Platform](https://us2.ai/news/us2-ai-joins-harrision-ai-s-medical-imaging-ai-open-platform/): Us2.ai is proud to be one of the leading AI vendors partnering with Harrison.ai Radiology on their newly launched Open Platform — a bold step toward transforming access to…
+- [Us2.ai achieves ISO 27001:2022 certification](https://us2.ai/news/us2-ai-achieves-iso-27001-2022-certification/): Us2.ai is proud to have successfully completed our ISO/IEC 27001:2022 certification!
+- [AI-based automated echo measurements at Juntendo University](https://us2.ai/news/ai-based-automated-echo-measurements-at-juntendo-university/): We had the opportunity to speak with Dr. Kagiyama ahead of his presentation at AHA 2024, where he shared his experiences of implementing Us2.ai’s technology within his…
+- [AI-ECHO RCT](https://us2.ai/news/ai-echo-rct/): A research team from Juntendo University, led by Dr. Nobuyuki Kagiama, recently presented their findings from the Randomized Crossover Trial: Artificial Intelligence-based…
+- [New HCPCS code for heart failure](https://us2.ai/news/new-hcpcs-code-for-heart-failure/): CMS has issued a new HCPCS code for echocardiography image post processing for computer aided detection of heart failure with preserved ejection fraction, including…
+- [AI POCUS with AI echo analysis software](https://us2.ai/news/ai-pocus-with-ai-echo-analysis-software/): 7 Incredible Things I Saw at HLTH2022: Las Vegas. What Happened In Vegas Definitely Won’t Stay There
+- [Cardiology Most Highly Cited Researchers](https://us2.ai/news/cardiology-most-highly-cited-researchers/): Dr Lam recognized as one of the true pioneers in cardiology over the last decade, demonstrated by the production of multiple highly-cited papers that rank in the top 1% by…
+- [Merge partners with Us2.ai to transform cardiology diagnostics with AI-generated echocardiogram measurements](https://us2.ai/news/merge-partners-with-us2-ai-to-transform-cardiology-diagnostics-with-ai-generated-echocardiogram-meas/): The partnership integrates Us2.ai’s cutting-edge, FDA-cleared algorithms with Merge Cardio’s advanced imaging systems to deliver AI-generated analysis and reporting of…
+- [AI-SCREEN-CA: Uncovering Hidden Cardiac Amyloidosis with AI-Driven Echocardiography](https://us2.ai/news/ai-screen-ca-uncovering-hidden-cardiac-amyloidosis-with-ai-driven-echocardiography/): Presented at the American Heart Association Scientific Sessions 2025 (AHA25) by researchers from Juntendo University (Tokyo, Japan), the AI-SCREEN-CA study evaluated the…
+- [Big breakthroughs in Singapore](https://us2.ai/news/big-breakthroughs-in-singapore/): Inc. Magazine – Big breakthroughs are happening in one of the world’s hottest technology centers
+- [AI Echo digital health startup among the most promising startups in Southeast Asia](https://us2.ai/news/ai-echo-digital-health-startup-among-the-most-promising-startups-in-southeast-asia/): Us2.ai recognised among the most promising startups in SEA
+- [AI automated heart failure detection and classification from electronic health records](https://us2.ai/news/ai-automated-heart-failure-detection-and-classification-from-electronic-health-records/): New research led by the University of Dundee, demonstrated the feasibility of AI to automatically identify and classify patients with heart failure from archived…
+- [Why Stress Is a Hidden Cardiovascular Risk for Women: Dr. Carolyn Lam in Her World](https://us2.ai/news/dr-carolyn-lam-women-stress-cardiovascular-risk/): Stress isn't just burnout. For women, it's a cardiovascular risk factor that medicine has been too slow to recognise. Here's what we're missing.
+- [Dr. Carolyn Lam Receives 2026 Women As One Mentorship Award for AI and Equity in ATTR-CM](https://us2.ai/news/carolyn-lam-women-as-one-mentorship-award-2026-attr-cm/): Dr. Carolyn Lam, co-founder and Non-Executive Head of Medical Affairs at Us2.ai, has been named one of six global recipients of the 2026 Women As One Mentorship Award for her…
+- [AI echo copilot – the future of echocardiography](https://us2.ai/news/ai-echo-copilot-the-future-of-echocardiography/): Us2.connect turns any ultrasound device into your AI echo copilot. From CARTs to mobile devices, any echo machine can now have 100% automated reporting with disease detection and…
+- [AI echocardiogram reports fully automated from a GE Vivid E95](https://us2.ai/news/ai-echocardiogram-reports-fully-automated-from-a-ge-vivid-e95/): Fully automated echo reporting and disease detection in realtime with the GE Vivid E95. The future of AI for ultrasound is here today!
+- [Heart2Miss: AI-supported Cardiac Ultrasound Triage for Early HF Detection](https://us2.ai/news/heart2miss-ai-supported-cardiac-ultrasound-triage-for-early-hf-detection/): Presented as a Late-breaking science at Heart Failure 2025 on May 18 in Belgrade, Serbia, the Heart2Miss screening programme conducted in Malaysia drew significant attention for…
+- [What New Inflammation Research Reveals About the Future of Heart Failure Care](https://us2.ai/news/inflammation-heart-failure-ejection-fraction-poseidon/): Us2.ai Co-founder and Non-Executive Head of Medical Affairs Dr. Carolyn Lam presented results from the POSEIDON study at ESC HF 2026, finding inflammation equally common across…
+- [AI heart failure diagnosis at home with cardiac ultrasound](https://us2.ai/news/ai-heart-failure-diagnosis-at-home-with-cardiac-ultrasound/): We have an increasing number of patients with diabetes, hypertension and chronic kidney disease who know about their chronic disease but don’t know whether they have heart…
+- [Biomarkers and AI for the transformation of heart failure diagnosis](https://us2.ai/news/biomarkers-and-ai-for-the-transformation-of-heart-failure-diagnosis/): The ESC Heart Failure Guidelines recommend measurement of plasma NT-proBNP concentration as an initial step, and echocardiography as a necessary tool to confirm HF diagnosis, as…
+- [Heart Failure 2023 – visit Us2.ai together with Roche](https://us2.ai/news/heart-failure-2023-visit-us2-ai-together-with-roche/): Heart failure affects 64 million people worldwide and many cases remain undetected and/or untreated despite available evidence-based therapies. AI can help tackle this problem…
+- [AI Echo on stage at EACVI 2023](https://us2.ai/news/ai-echo-on-stage-at-eacvi-2023/): AI echo at EACVI 2023 – join us in Barcelona to learn more about echo analysis software.
+- [AI Echo for Cardiac Amyloidosis](https://us2.ai/news/ai-echo-for-cardiac-amyloidosis/): Transthyretin (ATTR) amyloidosis is emerging as an under recognized form of heart failure especially in the elderly. The aim of the study was to assess the ability of Us2.ai to…
+- [AI Echo for Mitral Regurgitation Severity Grading](https://us2.ai/news/ai-echo-for-mitral-regurgitation-severity-grading/): In the US and Europe, Mitral Regurgitation (MR) is the most common valvular heart disease. It is very difficult to grade MR, but extremely important because the more severe the…
+- [AI Strain Echocardiography](https://us2.ai/news/ai-strain-echocardiography/): Strain imaging is currently the most sensitive parameter reflecting myocardial deformation and systolic left ventricular function. Reduced left ventricular global longitudinal…
+- [AI POCUS – Ultrasound AI Point of Care for Heart Failure](https://us2.ai/news/ai-pocus-ultrasound-ai-point-of-care-for-heart-failure/): Heart failure will be very prevalent in the future where 1 in 10 people above the age of 65 will be diagnosed with heart failure. However, access to professionally perform…
+- [Us2.ai Featured at Heart Failure Congress 2026](https://us2.ai/news/us2ai-esc-heart-failure-congress-2026/): Us2.ai's AI-powered cardiac ultrasound software featured in scientific presentations at Heart Failure Congress 2026 in Barcelona, spanning nurse-led HF screening, primary care…
+- [Patient Impact: How AI-Assisted Echocardiography Helped Detect Life-Threatening Heart Failure in the Community](https://us2.ai/news/patient-impact-everton-beat-breathlessness-ai-echo-heart-failure/): A free community screening powered by Us2.ai's AI-assisted echocardiography detected life-threatening heart failure in Gina, 75, from Liverpool. Same day. No GP referral needed.…
+- [AI for echocardiography – democratizing healthcare with the AI echo report](https://us2.ai/news/ai-for-echocardiography-democratizing-healthcare-with-the-ai-echo-report/): Echo analysis software for AI decision support – a YouTube interview describing how machine learning can democratize healthcare with automated AI echo disease detection
+- [What TARTAN-HF Reveals About Diabetes and Undiagnosed Heart Failure](https://us2.ai/news/tartan-hf-undiagnosed-heart-failure-diabetes-screening/): The results from the TARTAN-HF (Targeted assessment in high-risk patients with diabetes to identify undiagnosed heart failure) trial, presented as a late-breaking featured…
+- [AI Echo in Clinical Workflow](https://us2.ai/news/ai-echo-in-clinical-workflow/): In this interview, Dr. Wojciech Mazur, MD, Director of Advanced Cardiac Imaging at The Christ Hospital Health Network, and Dave Ladd, Business Development at Us2.ai, discuss the…
+- [Early Detection of Atrial Myxoma With Echocardiography](https://us2.ai/news/early-detection-of-atrial-myxoma-with-echocardiography/): Us2.ai co-founder Dr. Carolyn Lam was quoted in Newsweek on a rare cardiac case that underscores a truth at the heart of what we do: the right imaging, at the right moment,…
