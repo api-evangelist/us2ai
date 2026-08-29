@@ -45,6 +45,9 @@ accessModel:
   method: derived
 image: https://us2.ai/favicon.png
 url: https://raw.githubusercontent.com/api-evangelist/us2ai/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The platform is vendor-neutral and DICOM-native, deploying via ultrasound OEMs (Fujifilm LISENDO 880), AI marketplaces (Viz.ai, Harrison.ai), cardiology PACS (Merge Cardio via DICOM-SR/HL7), or as a c"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
